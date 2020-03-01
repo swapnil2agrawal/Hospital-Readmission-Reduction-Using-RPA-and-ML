@@ -3,7 +3,7 @@
 
 A Hospital readmission is a case when a patient who has been discharged from the hospital is admitted again within a specified period of time. In a program created by CMS to improve quality of healthcare, hospitals are charged for a readmission rate above a threshold. Some data realeted to current scenario of hospital readmission is shown below. 
 
-![hack2.png](attachment:hack2.png)
+<img src= "/images/hack2.png" style="width:200px;height:400px"/>
 
 For those hosptials which are currently being penalized under this program, a solution is to identify with increased risk of readmission beforehand and provide personalized care to these patients. The hospitals can also make arrangements and can increase resources if they have a prediction of readmission cases. 
 
@@ -21,7 +21,7 @@ This project attempts to reduce these readmission costs and patient inconvenienc
 
 ## Approach
 
-![appraoch_sdlc.png](attachment:appraoch_sdlc.png)
+![appraoch_sdlc.png](/images/appraoch_sdlc.png)
 
 - As soon as the patient enters hospital, he will fill a form about his symptoms. Before the patient will meet the doctor, a complete report of his previous visits, medical history and other patients with same symptoms will be sent to doctor. This will help doctor provide better treatment. 
 
